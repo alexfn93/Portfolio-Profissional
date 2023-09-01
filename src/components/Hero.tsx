@@ -1,4 +1,7 @@
-import { HiDownload } from "react-icons/hi"
+import { HiDownload } from "react-icons/hi";
+import { FaLinkedin } from "react-icons/fa";
+import { FaYoutube } from "react-icons/fa";
+import { FaGithub } from "react-icons/fa";
 
 export default function Hero() {
   return (
@@ -24,7 +27,7 @@ export default function Hero() {
             </h2>
 
             <p className="mb-6 text-center text-gray-400 md:text-left">
-            Desenvolver aplicações web é a minha paixão e o meu propósito. Estou sempre buscando novos conhecimentos e oportunidades para crescer profissionalmente e pessoalmente.
+              Desenvolver aplicações web é a minha paixão e o meu propósito. Estou sempre buscando novos conhecimentos e oportunidades para crescer profissionalmente e pessoalmente.
             </p>
 
             <div className="flex items-center justify-center gap-2 md:justify-start">
@@ -43,9 +46,17 @@ export default function Hero() {
                 <HiDownload />
                 Baixe meu CV
               </a>
+              <a href="https://www.linkedin.com/in/alexfernandes-fullstack/"
+                target="_blank">
+                <FaLinkedin size={33} /></a>
+              <a href="https://github.com/alexfn93"
+                target="_blank">
+                <FaGithub size={33} /></a>
+              <a href="https://www.youtube.com/@AlexFernandesDev"
+                target="_blank">
+                <FaYoutube size={33} /></a>
             </div>
           </div>
-
           <div className="basis-1/2"></div>
         </div>
       </section>

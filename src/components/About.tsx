@@ -1,3 +1,6 @@
+const anoNascimento = 1993;
+const idade = new Date().getFullYear() - anoNascimento;
+
 export default function About() {
   return (
     <section className="container mx-auto my-4 max-w-5xl p-4">
@@ -30,7 +33,7 @@ export default function About() {
                   <td className="font-headline font-bold uppercase text-blue-900">
                     Idade:
                   </td>
-                  <td>30</td>
+                  <td>{idade}</td>
                 </tr>
                 <tr>
                   <td className="font-headline font-bold uppercase text-blue-900">
