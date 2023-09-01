@@ -10,7 +10,7 @@ export default function About() {
           <span className="font-handwriting text-4xl">Mim</span>
         </h2>
         <p className="relative text-sm text-gray-600">
-          Sobre Mim Olá! Sou Alex, um desenvolvedor Full Stack iniciante com muita paixão pela tecnologia. Estou constantemente aprendendo 
+          Olá! Sou Alex, um desenvolvedor Full Stack iniciante com muita paixão pela tecnologia. Estou constantemente aprendendo 
           e buscando oportunidades para aprimorar minhas habilidades. Adoro enfrentar desafios e colaborar em equipe. 
           Estou em busca de projetos reais para aplicar meu conhecimento e contribuir para o sucesso.
 
