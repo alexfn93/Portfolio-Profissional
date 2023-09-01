@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "",
+  "homepage": "https://alexfn93.github.io/Portfolio-Profissional/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist -r git@github.com:alexfn93/Portfolio-Profissional.git",
