@@ -10,8 +10,11 @@ export default function About() {
           <span className="font-handwriting text-4xl">Mim</span>
         </h2>
         <p className="relative text-sm text-gray-600">
-          Tenho alguns projetos executados e gostaria que o próximo seja o
-          seu.
+          Sobre Mim Olá! Sou Alex, um desenvolvedor Full Stack iniciante com muita paixão pela tecnologia. Estou constantemente aprendendo 
+          e buscando oportunidades para aprimorar minhas habilidades. Adoro enfrentar desafios e colaborar em equipe. 
+          Estou em busca de projetos reais para aplicar meu conhecimento e contribuir para o sucesso.
+
+          Se precisar de mais informações ou tiver alguma outra pergunta, estou aqui para ajudar.
         </p>
         <div className="absolute left-1/2 top-3 z-0 h-10 w-10 rounded-lg bg-blue-100/40" />
       </div>
@@ -69,7 +72,7 @@ export default function About() {
                   </td>
                   <td>
                     <a
-                      href="https://goo.gl/maps/qu817s73rUwfwk8U6"
+                      href="https://goo.gl/maps/PyNWLN1eQL8VMqxe8"
                       target="_blank"
                       className="underline hover:text-blue-800"
                     >

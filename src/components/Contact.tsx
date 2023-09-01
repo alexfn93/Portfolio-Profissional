@@ -56,7 +56,7 @@ export default function Contact() {
     {
       name: "Rio de Janeiro",
       description: "Rio Comprido - RJ",
-      link: "https://goo.gl/maps/qu817s73rUwfwk8U6",
+      link: "https://goo.gl/maps/PyNWLN1eQL8VMqxe8",
       icon: <HiOutlineMapPin className="h-10 w-10" />,
     },
   ]
