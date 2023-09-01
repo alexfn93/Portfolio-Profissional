@@ -66,7 +66,7 @@ export default function About() {
                   </td>
                   <td>
                     <a
-                      href="https://goo.gl/maps/4yacADQtLB8jz8zn9?coh=178573&entry=tt"
+                      href="https://goo.gl/maps/qu817s73rUwfwk8U6"
                       target="_blank"
                       className="underline hover:text-blue-800"
                     >
