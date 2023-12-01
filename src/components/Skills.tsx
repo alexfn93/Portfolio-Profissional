@@ -92,13 +92,13 @@ export default function Skills() {
 
     {
       name: "Pacote Office",
-      icon: "images/icons8-microsoft-excel-201.svg",
+      icon: "images/icons8-microsoft-office.svg",
       level: 75,
     },
 
     {
       name: "Sistema SAP",
-      icon: "images/",
+      icon: "images/icons8-sap.svg",
       level: 65,
     },
   ]
