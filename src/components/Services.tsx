@@ -3,9 +3,6 @@ import {
   HiComputerDesktop,
   HiDevicePhoneMobile,
   HiCloud,
-  HiOutlineDocumentCheck,
-  HiOutlineDocument,
-  HiOutlineScale,
   HiOutlineGlobeEuropeAfrica,
 } from "react-icons/hi2"
 

@@ -27,13 +27,13 @@ export default function Skills() {
       name: "Curso de Pacote Office | Escola Virtual Bradesco",
     },
     {
-      name: "Java Completo + POO + Banco de Dados + Git | Udemy",
+      name: "Curso de Java Completo + POO + Banco de Dados + Git | Udemy",
     },
     {
-      name: "Google Data Analytics | Coursera",
+      name: "Curso de Google Data Analytics | Coursera",
     },
     {
-      name: "Sistema SAP Completo | Udemy",
+      name: "Curso de Sistema SAP Completo | Udemy",
     },
     
   ]
