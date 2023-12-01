@@ -3,6 +3,10 @@ import {
   HiComputerDesktop,
   HiDevicePhoneMobile,
   HiCloud,
+  HiOutlineDocumentCheck,
+  HiOutlineDocument,
+  HiOutlineScale,
+  HiOutlineGlobeEuropeAfrica,
 } from "react-icons/hi2"
 
 export default function Services() {
@@ -31,7 +35,7 @@ export default function Services() {
     {
       title: "Sistema SAP",
       description: "SAP HCM, SAP FI, SAP CO, SAP MM, SAP SD, BASIS e ABAP",
-      icon: <HiCloud className="h-12 w-12" />,
+      icon: <HiOutlineGlobeEuropeAfrica className="h-12 w-12" />,
     },
   ]
 
