@@ -15,7 +15,7 @@ export default function Services() {
     },
     {
       title: "Sistemas",
-      description: "Desenvolvimento de sistemas e APIs REST com Node.js.",
+      description: "Desenvolvimento de sistemas e APIs REST com Node.js e Java",
       icon: <HiCommandLine className="h-12 w-12" />,
     },
     {
@@ -25,7 +25,12 @@ export default function Services() {
     },
     {
       title: "Produtividade",
-      description: "Ferramentas de produtividade como Excel e Power BI.",
+      description: "Ferramentas de produtividade como Excel, Power BI e Pacote Office.",
+      icon: <HiCloud className="h-12 w-12" />,
+    },
+    {
+      title: "Sistema SAP",
+      description: "SAP HCM, SAP FI, SAP CO, SAP MM, SAP SD, BASIS e ABAP",
       icon: <HiCloud className="h-12 w-12" />,
     },
   ]

@@ -26,6 +26,15 @@ export default function Skills() {
     {
       name: "Curso de Pacote Office | Escola Virtual Bradesco",
     },
+    {
+      name: "Java Completo + POO + Banco de Dados + Git | Udemy",
+    },
+    {
+      name: "Google Data Analytics | Coursera",
+    },
+    {
+      name: "Sistema SAP Completo | Udemy",
+    },
     
   ]
 
@@ -38,17 +47,17 @@ export default function Skills() {
     {
       name: "JavaScript",
       icon: "images/javascript.svg",
-      level: 65,
+      level: 75,
     },
     {
       name: "TypeScript",
       icon: "images/typescript-svgrepo-com.svg",
-      level: 40,
+      level: 50,
     },
     {
       name: "React.js",
       icon: "images/react.svg",
-      level: 55,
+      level: 65,
     },
     {
       name: "Angular",
@@ -63,22 +72,34 @@ export default function Skills() {
     {
       name: "Java",
       icon: "images/java-svgrepo-com.svg",
-      level: 70,
+      level: 85,
     },
     {
       name: "SQL",
       icon: "images/sql-database-sql-azure-svgrepo-com.svg",
-      level: 65,
+      level: 75,
     },
     {
       name: "Power BI",
       icon: "images/icons8-power-bi.svg",
-      level: 80,
+      level: 90,
     },
     {
       name: "Excel",
       icon: "images/icons8-microsoft-excel-2019.svg",
-      level: 80,
+      level: 90,
+    },
+
+    {
+      name: "Pacote Office",
+      icon: "images/icons8-microsoft-excel-201.svg",
+      level: 75,
+    },
+
+    {
+      name: "Sistema SAP",
+      icon: "images/",
+      level: 65,
     },
   ]
 
@@ -95,8 +116,8 @@ export default function Skills() {
             </span>
           </h2>
           <p className="relative text-sm text-gray-700">
-            Full-Stack | HTML5/CSS3 | React.js | Node.js | TypeScript
-            | JavaScript | Java | SQL | Excel Avançado | Power BI Avançado
+            Full-Stack | Data Analytics | HTML5/CSS3 | React.js | Node.js | TypeScript
+            | JavaScript | Java | SQL | Excel Avançado | Power BI Avançado | Pacote Office | Sistema SAP
           </p>
           <div className="absolute left-1/2 top-3 z-0 h-10 w-10 rounded-lg bg-blue-400/10" />
         </div>

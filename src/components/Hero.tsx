@@ -23,11 +23,11 @@ export default function Hero() {
 
             <h2 className="mb-6 flex items-center justify-center gap-2 font-semibold md:justify-start">
               <div className="h-1 w-12 rounded-full bg-blue-800" />
-              Desenvolvedor Full Stack.
+              Desenvolvedor Full Stack e Data Analytics.
             </h2>
 
             <p className="mb-6 text-center text-gray-400 md:text-left">
-              Desenvolver aplicações web é a minha paixão e o meu propósito. Estou sempre buscando novos conhecimentos e oportunidades para crescer profissionalmente e pessoalmente.
+              Tecnologia é a minha paixão e o meu propósito. Estou sempre buscando novos conhecimentos e oportunidades para crescer profissionalmente e pessoalmente.
             </p>
 
             <div className="flex items-center justify-center gap-2 md:justify-start">
