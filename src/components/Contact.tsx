@@ -50,7 +50,7 @@ export default function Contact() {
     {
       name: "Email",
       description: "alexfn.dev.job@gmail.com",
-      link: "mailto:alexfn.de.job@gmail.com?subject=&body=",
+      link: "mailto:alexfn.dev.job@gmail.com?subject=&body=",
       icon: <HiOutlineEnvelope className="h-10 w-10" />,
     },
     {
