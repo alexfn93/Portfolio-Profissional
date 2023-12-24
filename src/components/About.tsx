@@ -58,7 +58,7 @@ export default function About() {
                   </td>
                   <td>
                     <a
-                      href="mailto:alexfn.de.job@gmail.com?subject=&body="
+                      href="mailto:alexfn.dev.job@gmail.com?subject=&body="
                       target="_blank"
                       className="underline hover:text-blue-800"
                     >
